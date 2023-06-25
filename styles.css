@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+.main{
+	display:flex;
+	flex-direction:row;
+	position:absolute;
+	gap:20px;
+	text-align:center;
+	justify-content:center;
+	
+}
+img{
+	object-fit:cover;
+	width:500px;
+	height:300px;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+button{
+	background-color:red;
+	color:white;
+	border:none;
+	height:30px;
+}
+.hero{
+	
+	position:relative;
+		text-align:center;
+	justify-content:center;
+	
+	
+}
+.hero2{
+	top:80px;
+	position:relative;
+		text-align:center;
+	justify-content:center;
+	
+	
+}
